@@ -1,0 +1,66 @@
+{ 
+    "_id" : ObjectId("592bfb642b66150ff469c103"), 
+    "sil" : "supervisor", 
+    "pass" : "supervisor", 
+    "editor_data" : [
+
+    ]
+}
+{ 
+    "_id" : ObjectId("592bfb912b66150ff469c104"), 
+    "sid" : "Dr. Vineeth Paleri", 
+    "pass" : "Vineeth", 
+    "editor_data" : [
+
+    ]
+}
+{ 
+    "_id" : ObjectId("592bfbfd2b66150ff469c105"), 
+    "sid" : "Dr. S.D Madhu Kumar", 
+    "pass" : "Madhu", 
+    "editor_data" : [
+
+    ]
+}
+{ 
+    "_id" : ObjectId("592bfc202b66150ff469c106"), 
+    "sid" : "Dr. Priya Chandran", 
+    "pass" : "Chandran", 
+    "editor_data" : [
+        {
+            "editor_id" : "editor", 
+            "app_id" : "_app_rxy1drxqqg_id", 
+            "file" : "m150979ca_PHP Multi Page Form _ FormGet.pdf", 
+            "status" : "Rejected"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("592bfc352b66150ff469c107"), 
+    "sid" : "Dr. Abdul Naseer", 
+    "pass" : "Naseer", 
+    "editor_data" : [
+        {
+            "editor_id" : "editor", 
+            "app_id" : "_app_fgu88kuch1_id", 
+            "file" : "M140429CA_PHP Multi Page Form _ FormGet.pdf", 
+            "status" : "pending"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("592bfc5c2b66150ff469c108"), 
+    "sid" : "Dr. Sudeep K.S", 
+    "pass" : "Sudeep", 
+    "editor_data" : [
+
+    ]
+}
+{ 
+    "_id" : ObjectId("592bfc732b66150ff469c109"), 
+    "sid" : "Dr. Saidalvi Kalady", 
+    "pass" : "Saidalvi", 
+    "editor_data" : [
+
+    ]
+}

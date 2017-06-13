@@ -1,0 +1,13 @@
+{ 
+    "_id" : ObjectId("59296c44d0c937980d000029"), 
+    "rid" : "reviewer", 
+    "password" : "reviewer", 
+    "student_data" : [
+        {
+            "editor_id" : " ", 
+            "student_id" : " ", 
+            "file" : " ", 
+            "status" : "pending "
+        }
+    ]
+}

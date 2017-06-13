@@ -1,0 +1,96 @@
+{ 
+    "_id" : ObjectId("59296c44d0c937980d000029"), 
+    "eid" : "editor", 
+    "password" : "editor", 
+    "student_data" : [
+        {
+            "app_id" : "_app_rxy1drxqqg_id", 
+            "File" : "m150979ca_m150979ca_PHP Multi Page Form _ FormGet.pdf", 
+            "sentToSupervisor" : "pending", 
+            "supervisor_action" : "Accepted", 
+            "reviewer_action" : "pending", 
+            "editor_passes" : "pending", 
+            "status" : "pending"
+        }, 
+        {
+            "app_id" : "_app_fgu88kuch1_id", 
+            "File" : "M140429CA_M140429CA_PHP Multi Page Form _ FormGet.pdf", 
+            "sentToSupervisor" : "pending", 
+            "supervisor_action" : "pending", 
+            "reviewer_action" : "pending", 
+            "editor_passes" : "pending"
+        }, 
+        {
+            "app_id" : "_app_t72ek8401t_id", 
+            "File" : "m150469ca_m150469ca_cPanel - Configure Mail Client.pdf", 
+            "sentToSupervisor" : "pending", 
+            "supervisor_action" : "pending", 
+            "reviewer_action" : "pending", 
+            "editor_passes" : "pending"
+        }, 
+        {
+            "app_id" : "_app_05sp08x419_id", 
+            "File" : "m150464ca_m150464ca_CSS3 Hover Effect Transitions, Transformations, Animations.pdf", 
+            "sentToSupervisor" : "pending", 
+            "supervisor_action" : "pending", 
+            "reviewer_action" : "pending", 
+            "editor_passes" : "pending"
+        }, 
+        {
+            "app_id" : "_app_0rdo7uqh13_id", 
+            "File" : "m150579ca_m150579ca_Final.pdf", 
+            "sentToSupervisor" : "pending", 
+            "supervisor_action" : "pending", 
+            "reviewer_action" : "pending", 
+            "editor_passes" : "pending"
+        }, 
+        {
+            "app_id" : "_app_y4mqckkhhb_id", 
+            "File" : "m150549ca_m150549ca_GradeCard (1).pdf", 
+            "sentToSupervisor" : "pending", 
+            "supervisor_action" : "pending", 
+            "reviewer_action" : "pending", 
+            "editor_passes" : "pending"
+        }, 
+        {
+            "app_id" : "_app_xk5adppzq3_id", 
+            "File" : "m150540ca_m150540ca_shop.pdf", 
+            "sentToSupervisor" : "pending", 
+            "supervisor_action" : "pending", 
+            "reviewer_action" : "pending", 
+            "editor_passes" : "pending"
+        }, 
+        {
+            "app_id" : "_app_0d6geqa0qk_id", 
+            "File" : "m150471ca_m150471ca_september_mess_fee_2016.pdf", 
+            "sentToSupervisor" : "pending", 
+            "supervisor_action" : "pending", 
+            "reviewer_action" : "pending", 
+            "editor_passes" : "pending"
+        }, 
+        {
+            "app_id" : "_app_sibts51mqm_id", 
+            "File" : "m150469ca_m150469ca_GROUP2_SRS.pdf", 
+            "sentToSupervisor" : "pending", 
+            "supervisor_action" : "pending", 
+            "reviewer_action" : "pending", 
+            "editor_passes" : "pending"
+        }, 
+        {
+            "app_id" : "_app_7h77nbbksm_id", 
+            "File" : "m150469ca_m150469ca_Mind_map.pdf", 
+            "sentToSupervisor" : "pending", 
+            "supervisor_action" : "pending", 
+            "reviewer_action" : "pending", 
+            "editor_passes" : "pending"
+        }, 
+        {
+            "app_id" : "_app_axddq1t0q3_id", 
+            "File" : "m150369ca_m150369ca_Images.pdf", 
+            "sentToSupervisor" : "pending", 
+            "supervisor_action" : "pending", 
+            "reviewer_action" : "pending", 
+            "editor_passes" : "pending"
+        }
+    ]
+}

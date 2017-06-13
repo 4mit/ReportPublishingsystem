@@ -1,0 +1,84 @@
+{ 
+    "_id" : ObjectId("592cccf9d0c937e41400002d"), 
+    "app_id" : "_app_rxy1drxqqg_id", 
+    "Department" : "Computer Science and Engineering Depatment", 
+    "Faculty" : "Dr. Priya Chandran", 
+    "Name" : "Amit kumar", 
+    "Roll Number" : "m150979ca", 
+    "Email-id" : "ajayram@gmail.com", 
+    "Report Subject" : "aaa", 
+    "File" : "m150979ca_PHP Multi Page Form _ FormGet.pdf", 
+    "Verify" : "0"
+}
+{ 
+    "_id" : ObjectId("592d3758d0c937fc14000029"), 
+    "app_id" : "_app_fgu88kuch1_id", 
+    "Department" : "Computer Science and Engineering Depatment", 
+    "Faculty" : "Dr. Abdul Naseer", 
+    "Name" : "SAKSHIA", 
+    "Roll Number" : "M140429CA", 
+    "Email-id" : "sakshi@gmail.com", 
+    "Report Subject" : "abcd", 
+    "File" : "M140429CA_PHP Multi Page Form _ FormGet.pdf", 
+    "Verify" : "YES"
+}
+{ 
+    "_id" : ObjectId("5933bb1dd0c9370819000029"), 
+    "app_id" : "_app_t72ek8401t_id", 
+    "Department" : "Computer Science and Engineering Depatment", 
+    "Faculty" : "Dr. Abdul Naseer", 
+    "Name" : "Ajay", 
+    "Roll Number" : "m150469ca", 
+    "Email-id" : "ajayram@gmail.com", 
+    "Report Subject" : "asas", 
+    "File" : "m150469ca_cPanel - Configure Mail Client.pdf", 
+    "Verify" : "0"
+}
+{ 
+    "_id" : ObjectId("5933bb5ad0c937081900002a"), 
+    "app_id" : "_app_05sp08x419_id", 
+    "Department" : "Computer Science and Engineering Depatment", 
+    "Faculty" : "Dr. Abdul Naseer", 
+    "Name" : "amar", 
+    "Roll Number" : "m150464ca", 
+    "Email-id" : "ajayradsd@gmail.com", 
+    "Report Subject" : "asas", 
+    "File" : "m150464ca_CSS3 Hover Effect Transitions, Transformations, Animations.pdf", 
+    "Verify" : "0"
+}
+{ 
+    "_id" : ObjectId("5933bd10d0c937081900002f"), 
+    "app_id" : "_app_sibts51mqm_id", 
+    "Department" : "Computer Science and Engineering Depatment", 
+    "Faculty" : "Dr. Priya Chandran", 
+    "Name" : "Ajay", 
+    "Roll Number" : "m150469ca", 
+    "Email-id" : "ajayram@gmail.com", 
+    "Report Subject" : "ad", 
+    "File" : "m150469ca_GROUP2_SRS.pdf", 
+    "Verify" : "0"
+}
+{ 
+    "_id" : ObjectId("5933bd30d0c9370819000030"), 
+    "app_id" : "_app_7h77nbbksm_id", 
+    "Department" : "Computer Science and Engineering Depatment", 
+    "Faculty" : "Dr. Priya Chandran", 
+    "Name" : "amar", 
+    "Roll Number" : "m150469ca", 
+    "Email-id" : "ajayradsdm@gmail.com", 
+    "Report Subject" : "ad", 
+    "File" : "m150469ca_Mind_map.pdf", 
+    "Verify" : "0"
+}
+{ 
+    "_id" : ObjectId("5933bd5dd0c9370819000031"), 
+    "app_id" : "_app_axddq1t0q3_id", 
+    "Department" : "Computer Science and Engineering Depatment", 
+    "Faculty" : "Dr. Priya Chandran", 
+    "Name" : "adadd", 
+    "Roll Number" : "m150369ca", 
+    "Email-id" : "ajadfsm@gmail.com", 
+    "Report Subject" : "ad", 
+    "File" : "m150369ca_Images.pdf", 
+    "Verify" : "0"
+}
